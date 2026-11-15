@@ -7,10 +7,9 @@ int main(void) {
 
     scanf("%d",&x);
 
-    y=1.0/(x+100);
+    y = 1.0/(gx+100);
+   
     printf("%.15f\n",y);
-
-
     
     return 0;
 }
