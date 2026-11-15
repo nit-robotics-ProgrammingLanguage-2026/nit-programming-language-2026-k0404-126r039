@@ -5,11 +5,11 @@ int main(void) {
     int x;
     double y;
 
-    scanf("%d",&x);
+    scanf("%d", &x);
 
-    y = 1.0/(x+100);
+    y = 1.0 / (x + 100);
    
-    printf("%.15f\n",y);
+    printf("%.15f\n", y);
     
     return 0;
 }
